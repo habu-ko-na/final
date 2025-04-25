@@ -242,6 +242,8 @@ article.active {
 .article-title {
   position: relative;
   padding-bottom: 7px;
+  /* new update */
+  margin-top: 30px;
 }
 
 .article-title::after {
